@@ -18,8 +18,8 @@
   "homepage": "https://github.com/zhaobe/user-interface-dev#readme",
   "dependencies": {
     "bootstrap": "^3.3.7",
-    "generator-webapp": "^2.4.1",
+    "generator-webapp": "^3.0.0",
     "jquery": "^3.2.1",
-    "yo": "^1.8.5"
+    "yo": "^2.0.3"
   }
 }
