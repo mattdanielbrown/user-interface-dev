@@ -20,6 +20,6 @@
     "bootstrap": "^3.3.7",
     "generator-webapp": "^2.4.1",
     "jquery": "^3.2.1",
-    "yo": "^1.8.5"
+    "yo": "^6.0.0"
   }
 }
